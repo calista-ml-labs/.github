@@ -14,7 +14,7 @@ This organization is dedicated exclusively to **machine learning–focused work*
 * Applied ML projects and small-scale research implementations
 * Learning-oriented implementations of ML concepts
 
-> Web-focused development, UI engineering, and system design projects are maintained at **[Calista Web Labs](https://github.com/calista-web-labs)**.
+> Web-focused development, UI engineering, and system design projects are maintained at **[calista-web-labs](https://github.com/calista-web-labs)**.
 >
 > Cross-domain experiments (ML × Web), general coding labs, and programming language explorations are maintained at **[calista-labs](https://github.com/calista-labs)**.
 
